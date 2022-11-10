@@ -1,5 +1,3 @@
-import { Agent } from "https"
-
 export interface Person {
   name: string,
   age: number,
